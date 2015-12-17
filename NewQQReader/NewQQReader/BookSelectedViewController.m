@@ -43,7 +43,7 @@
 - (void)viewDidLoad {
     AdsdataArray = [[NSMutableArray alloc] init];
     mainViewDataList = [[NSMutableArray alloc] init];
-    
+    NSLog(@"哈哈");
     self.edgesForExtendedLayout = UIRectEdgeNone;
     self.automaticallyAdjustsScrollViewInsets = YES;
    
