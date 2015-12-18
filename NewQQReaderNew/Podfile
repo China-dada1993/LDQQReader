@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+pod 'SDWebImage', '~> 3.7.3'
+pod 'AFNetworking', '~> 3.0.0-beta.2'
+pod 'JSONModel', '~> 1.1.2'
+pod 'FMDB', '~> 2.5'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'MMDrawerController', '~> 0.6.0'
